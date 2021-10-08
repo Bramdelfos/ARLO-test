@@ -49,7 +49,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "forestry:preview": "gatsby develop -p 8080 -H 0.0.0.0"
+    "forestry:preview": "gatsby develop -p 8080 -H 0.0.0.0",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
