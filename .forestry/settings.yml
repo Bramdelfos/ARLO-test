@@ -16,8 +16,8 @@ build:
   instant_preview_command: npm run forestry:preview
 sections:
   - type: directory
-    path: src/content/posts
-    label: Posts
+    path: src/data/blogs
+    label: blogs
     create: documents
     match: "**/*"
     templates:
