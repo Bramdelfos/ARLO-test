@@ -1,6 +1,6 @@
 new_page_extension: md
 auto_deploy: false
-admin_path: /static/admin
+admin_path: 
 webhook_url: 
 sections: 
 upload_dir: static/uploads
@@ -15,11 +15,4 @@ build:
   mount_path: "/srv"
   working_dir: "/srv"
   instant_preview_command: npm run develop
-sections:
-  - type: directory
-    path: src/content/posts
-    label: Posts
-    create: documents
-    match: "**/*"
-    templates:
-      - blog
+
