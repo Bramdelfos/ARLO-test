@@ -6,7 +6,6 @@ format: image
 image: "../images/blog/blog-3.jpg"
 category:
 - Themeforest
-- testen
 tags:
 - react
 - gatsby
