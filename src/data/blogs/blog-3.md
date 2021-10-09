@@ -10,7 +10,7 @@ tags:
 - react
 - gatsby
 - Themeforest
-is_featured: false
+is_featured: true
 
 ---
 As Vintage decided to have a closer look into fast-paced New York web design realm in person, we get to acquaint with most diverse and exceptionally captivating personalities. We encounter professionals with careers to covet and lives to write books about.
