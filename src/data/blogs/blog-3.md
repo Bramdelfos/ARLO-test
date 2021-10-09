@@ -1,5 +1,5 @@
 ---
-title: What is Web and App Development haha?
+title: What is Web and App Development?
 date: 2020-02-06 05:00:00
 author: Rainbow
 format: image
