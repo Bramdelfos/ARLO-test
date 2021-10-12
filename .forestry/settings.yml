@@ -21,7 +21,7 @@ sections:
   label: Data
   create: documents
   match: "*"
-  new_doc_ext: yml  
+  new_doc_ext: json  
 upload_dir: static/uploads
 public_path: "/static/uploads"
 front_matter_path: ''
