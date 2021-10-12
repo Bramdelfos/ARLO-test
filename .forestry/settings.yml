@@ -15,13 +15,13 @@ sections:
   path: src/data/project
   label: projects
   create: documents
-  match: "**/*"  
+  match: "**/*"
 - type: directory
   path: src/data
   label: Data
   create: documents
   match: "*"
-  new_doc_ext: json  
+  new_doc_ext: json
 upload_dir: static/uploads
 public_path: "/static/uploads"
 front_matter_path: ''
