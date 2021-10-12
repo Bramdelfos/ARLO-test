@@ -11,6 +11,11 @@ sections:
   match: "**/*"
   templates:
   - blog
+- type: directory
+  path: src/data/project
+  label: projects
+  create: documents
+  match: "**/*"  
 upload_dir: static/uploads
 public_path: "/static/uploads"
 front_matter_path: ''
