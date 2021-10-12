@@ -23,7 +23,7 @@
         "id": "aboutinfo-2",
         "iconName": "icon",
         "label": "Age",
-        "value": "39"
+        "value": "30"
       },
       {
         "id": "aboutinfo-3",
@@ -94,7 +94,7 @@
     "id": "testimonial",
     "title": "Bram Delfos",
     "subtitle": "WEB3 expert",
-    "description": "Really the Code, Support, and design are awesome and its good support they are giving. They give an instant solution to our needs. Really awesome. I will strongly recommend to my friends. Great template, even better service!",
+    "description": "I propose to implement a combination of quadratic voting and reputation-based voting. This will ensure good economic incentives and permissionless participation (relative to registered voting), and will make it very difficult for power to centralize.",
     "bgImage": "./images/banner/bg-image-03.jpg"
   },
   {
