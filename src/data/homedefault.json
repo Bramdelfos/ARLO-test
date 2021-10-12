@@ -9,39 +9,39 @@
   {
     "id": "about",
     "title": "I'm Bram Delfos and <span class='color-primary'>WEB3 expert</span>",
-    "description": "Hi! My name is <span class='color-primary'>Albert Walkers</span>. I am a Web Developer, and I'm very passionate and dedicated to my work. With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success.",
-    "downloadButton": "Download CV",
+    "description": "Hi! My name is <span class='color-primary'>Bram Delfos</span>. WEB3 is the foundational layer for the Metaverse. A digital world which allows the human race to evolve at a much greater pace than before. Shaping the future of democracy through DAO innovation",
+    "downloadButton": "Get NFT",
     "linkBUtton": "Send Message",
     "aboutData": [
       {
         "id": "aboutinfo-1",
         "iconName": "FiArrowRightCircle",
         "label": "Birthday",
-        "value": "01.07.1990"
+        "value": "1991"
       },
       {
         "id": "aboutinfo-2",
         "iconName": "icon",
         "label": "Age",
-        "value": "29"
+        "value": "39"
       },
       {
         "id": "aboutinfo-3",
         "iconName": "icon",
         "label": "Location",
-        "value": "Ave 11, New York, USA"
+        "value": "Amsterdam"
       },
       {
         "id": "aboutinfo-3",
         "iconName": "icon",
         "label": "Interests",
-        "value": "PlayStation, Reading"
+        "value": "Reading"
       },
       {
         "id": "aboutinfo-3",
         "iconName": "icon",
         "label": "Study",
-        "value": "University of Chicago"
+        "value": "TU Delft"
       },
       {
         "id": "aboutinfo-4",
