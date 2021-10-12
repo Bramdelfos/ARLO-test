@@ -20,7 +20,7 @@ sections:
   path: src/data
   label: Data
   create: documents
-  match: "**/*"
+  match: "*"
   new_doc_ext: yml  
 upload_dir: static/uploads
 public_path: "/static/uploads"
