@@ -8,25 +8,25 @@ const infoList = [
         "id": "1",
         "icon": <FiGift />,
         "label": "Birthday:",
-        "link": "01.07.1990"
+        "link": "25.01.1991"
     },
     {
         "id": "2",
         "icon": <FiMapPin />,
         "label": "Location:",
-        "link": "Ave 11, New York, USA"
+        "link": "Amsterdam / Capetown"
     },
     {
         "id": "3",
         "icon": <FiBookOpen />,
         "label": "Study:",
-        "link": "University of Chicago"
+        "link": "Technical University of Delft"
     },
     {
         "id": "4",
         "icon": <FiMail />,
         "label": "Mail:",
-        "link": "mymail@gmail.com"
+        "link": "....@gmail.com"
     },
     {
         "id": "4",
@@ -44,7 +44,7 @@ const infoList = [
         "id": "4",
         "icon": <FiPhoneIncoming />,
         "label": "Phone:",
-        "link": "+77 022 177 05 05"
+        "link": "....."
     },
 ]
 
@@ -64,7 +64,7 @@ const About = ( ) => {
                     value
                 }
             },
-            file(relativePath: {eq: "images/banner/person-image-2.jpg"}) {
+            file(relativePath: {eq: "images/banner/Bram_tarifa.jpg"}) {
                 childImageSharp {
                   fixed (quality: 100, width: 395, height: 470) {
                     ...GatsbyImageSharpFixed
