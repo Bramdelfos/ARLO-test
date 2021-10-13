@@ -64,7 +64,7 @@ const About = ( ) => {
                     value
                 }
             },
-            file(relativePath: {eq: "images/banner/Bram_tarifa.jpg"}) {
+            file(relativePath: {eq: "images/banner/tarifa.jpg"}) {
                 childImageSharp {
                   fixed (quality: 100, width: 395, height: 470) {
                     ...GatsbyImageSharpFixed
