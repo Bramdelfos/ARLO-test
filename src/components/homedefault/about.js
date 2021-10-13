@@ -14,7 +14,7 @@ const infoList = [
         "id": "2",
         "icon": <FiMapPin />,
         "label": "Location:",
-        "link": "Amsterdam / Capetown"
+        "link": "Amsterdam"
     },
     {
         "id": "3",
