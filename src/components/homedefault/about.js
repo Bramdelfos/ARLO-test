@@ -30,6 +30,18 @@ const infoList = [
     },
     {
         "id": "4",
+        "icon": <FiBook />,
+        "label": "Experience:",
+        "link": "Founder of LeadLabel"
+    },
+    {
+        "id": "4",
+        "icon": <FiBook />,
+        "label": "Influence:",
+        "link": "Internet Computer ∞ thought leader"
+    },
+    {
+        "id": "4",
         "icon": <FiCalendar />,
         "label": "Birthyear:",
         "link": "1991"
