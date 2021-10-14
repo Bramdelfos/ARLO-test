@@ -74,7 +74,7 @@ const Header = () => {
                                 <li>
                                     <a className="nav-link menu-hover-link" href="/#news">
                                         <span className="hover-item">
-                                            <span data-text="News">Blog</span>
+                                            <span data-text="News">News</span>
                                         </span>
                                     </a>
                                 </li>
@@ -92,12 +92,10 @@ const Header = () => {
 
                     {/* Start Header Bottom  */}
                     <div className="header-bottom">
-                        <ul className="social-icons">
-                          //   <li><a href="facebook.com"><FaFacebookF /></a></li>
+                        <ul className="social-icons">       
                             <li><a href="twitter.com"><FaTwitter /></a></li>
                             <li><a href="linkedin.com"><FaLinkedinIn /></a></li>
-                            <li><a href="instagram.com"><FaInstagram /></a></li>
-                          //  <li><a href="behance.com"><FaBehance /></a></li>
+                            <li><a href="instagram.com"><FaInstagram /></a></li>  
                         </ul>
                     </div>
 
@@ -118,3 +116,6 @@ Header.defaultProps = {
 }
 
 export default Header;
+
+  //  <li><a href="behance.com"><FaBehance /></a></li>
+  //  <li><a href="facebook.com"><FaFacebookF /></a></li>
