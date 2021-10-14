@@ -17,7 +17,7 @@ const Header = () => {
                     path
                 }
             },
-            file(relativePath: {eq: "images/logo/dark-website.png"}) {
+            file(relativePath: {eq: "images/logo/NEWNETNINJA.png"}) {
                 childImageSharp {
                   fixed {
                     ...GatsbyImageSharpFixed
@@ -93,7 +93,7 @@ const Header = () => {
                     {/* Start Header Bottom  */}
                     <div className="header-bottom">
                         <ul className="social-icons">       
-                            <li><a href="twitter.com"><FaTwitter /></a></li>
+                            <li><a href="twitter.com/NewNetNinja"><FaTwitter /></a></li>
                             <li><a href="linkedin.com"><FaLinkedinIn /></a></li>
                             <li><a href="instagram.com"><FaInstagram /></a></li>  
                         </ul>
