@@ -74,7 +74,7 @@ const Header = () => {
                                 <li>
                                     <a className="nav-link menu-hover-link" href="/#news">
                                         <span className="hover-item">
-                                            <span data-text="News">News</span>
+                                            <span data-text="News">Blog</span>
                                         </span>
                                     </a>
                                 </li>
