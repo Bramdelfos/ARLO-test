@@ -26,7 +26,7 @@ const infoList = [
         "id": "4",
         "icon": <FiBook />,
         "label": "Degree:",
-        "link": "MSc Offshore engineering and BSc Mechanical Engineering"
+        "link": "MSc Offshore Engineering and BSc Mechanical Engineering"
     },
     {
         "id": "4",
