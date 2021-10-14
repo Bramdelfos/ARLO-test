@@ -4,48 +4,48 @@ import Img from "gatsby-image";
 import { FiMapPin, FiPhoneIncoming ,FiGift, FiBookOpen , FiMail, FiCalendar, FiBook} from "react-icons/fi";
 
 const infoList = [
-    {
-        "id": "1",
-        "icon": <FiGift />,
-        "label": "Birthday:",
-        "link": "25.01.1991"
-    },
+ //   {
+ //       "id": "1",
+ //       "icon": <FiGift />,
+ //       "label": "Birthday:",
+ //       "link": "25.01.1991"
+ //   },
     {
         "id": "2",
         "icon": <FiMapPin />,
         "label": "Location:",
-        "link": "Amsterdam"
+        "link": "Metaverse"
     },
     {
         "id": "3",
         "icon": <FiBookOpen />,
-        "label": "Study:",
+        "label": "University:",
         "link": "Technical University of Delft"
-    },
-    {
-        "id": "4",
-        "icon": <FiMail />,
-        "label": "Mail:",
-        "link": "....@gmail.com"
-    },
-    {
-        "id": "4",
-        "icon": <FiCalendar />,
-        "label": "Age:",
-        "link": "30"
     },
     {
         "id": "4",
         "icon": <FiBook />,
         "label": "Degree:",
-        "link": "Master"
+        "link": "MSc Offshore engineering and BSc Mechanical Engineering"
     },
     {
         "id": "4",
-        "icon": <FiPhoneIncoming />,
-        "label": "Phone:",
-        "link": "....."
+        "icon": <FiCalendar />,
+        "label": "Birthyear:",
+        "link": "1991"
     },
+    {
+        "id": "4",
+        "icon": <FiMail />,
+        "label": "Mail:",
+        "link": "bram@newnet.ninja"
+    },
+//    {
+//        "id": "4",
+//        "icon": <FiPhoneIncoming />,
+//        "label": "Phone:",
+//        "link": "....."
+//    },
 ]
 
 
