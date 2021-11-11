@@ -17,7 +17,7 @@ const Header = () => {
                     path
                 }
             },
-            file(relativePath: {eq: "images/logo/NNN-white-small.png"}) {
+            file(relativePath: {eq: "images/logo/NEWNETNINJA.png"}) {
                 childImageSharp {
                   fixed {
                     ...GatsbyImageSharpFixed
