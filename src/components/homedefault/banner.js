@@ -50,9 +50,9 @@ const Banner = () => {
                                         <h1 className="title" dangerouslySetInnerHTML={{ __html: Title }}></h1>
                                         <h4 className="subtitle">I'm a 
                                             <TextLoop mask={true}>
-                                                <span>WEB3 expert</span>
-                                                <span>Keynote Speaker</span>
-                                                <span>Metaverse Maximalist</span>
+                                                <span>WEB3 thought leader</span>
+                                                <span>Token Maximalist</span>
+                                                <span>Metaverse Evangelist</span>
                                             </TextLoop>{" "}
                                         </h4>
                                     </div>
