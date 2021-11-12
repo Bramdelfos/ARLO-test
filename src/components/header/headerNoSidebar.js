@@ -14,7 +14,7 @@ const HeaderNoSidebar = () => {
                     path
                 }
             },
-            file(relativePath: {eq: "images/logo/NNN-white-copy.png"}) {
+            file(relativePath: {eq: "images/logo/desktop-dark-logo.png"}) {
                 childImageSharp {
                   fixed {
                     ...GatsbyImageSharpFixed
