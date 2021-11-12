@@ -16,17 +16,17 @@ const infoList = [
         "label": "Location:",
         "link": "Metaverse"
     },
-    {
-        "id": "3",
-        "icon": <FiBookOpen />,
-        "label": "University:",
-        "link": "Technical University of Delft"
-    },
+//    {
+//        "id": "3",
+//        "icon": <FiBookOpen />,
+//        "label": "University:",
+//        "link": "Technical University of Delft"
+//    },
     {
         "id": "4",
         "icon": <FiBook />,
         "label": "Degree:",
-        "link": "MSc Offshore Engineering and BSc Mechanical Engineering"
+        "link": "MSc Offshore Engineering"
     },
     {
         "id": "4",
@@ -38,14 +38,14 @@ const infoList = [
         "id": "4",
         "icon": <FiBook />,
         "label": "Influence:",
-        "link": "Internet Computer ∞ thought leader"
+        "link": "WEB3 thought leader"
     },
-    {
-        "id": "4",
-        "icon": <FiCalendar />,
-        "label": "Birthyear:",
-        "link": "1991"
-    },
+//    {
+//        "id": "4",
+//        "icon": <FiCalendar />,
+//        "label": "Birthyear:",
+//        "link": "1991"
+//    },
     {
         "id": "4",
         "icon": <FiMail />,
