@@ -26,7 +26,7 @@ const infoList = [
         "id": "4",
         "icon": <FiBook />,
         "label": "Degree:",
-        "link": "MSc Offshore Engineering"
+        "link": "MSc Engineering"
     },
     {
         "id": "4",
@@ -34,12 +34,12 @@ const infoList = [
         "label": "Experience:",
         "link": "Founder of LeadLabel"
     },
-    {
-        "id": "4",
-        "icon": <FiBook />,
-        "label": "Influence:",
-        "link": "WEB3 thought leader"
-    },
+ //   {
+ //       "id": "4",
+ //       "icon": <FiBook />,
+ //       "label": "Influence:",
+ //       "link": "WEB3 thought leader"
+ //   },
 //    {
 //        "id": "4",
 //        "icon": <FiCalendar />,
@@ -51,7 +51,7 @@ const infoList = [
         "icon": <FiMail />,
         "label": "Mail:",
         "link": "bram@newnet.ninja"
-    },
+    }
 //    {
 //        "id": "4",
 //        "icon": <FiPhoneIncoming />,
