@@ -48,11 +48,11 @@ const Banner = () => {
                                             <Img className="portfolio-images" fixed={PortfolioImages} />
                                         </div>  
                                         <h1 className="title" dangerouslySetInnerHTML={{ __html: Title }}></h1>
-                                        <h4 className="subtitle">I'm a 
+                                        <h4 className="subtitle">We are 
                                             <TextLoop mask={true}>
-                                                <span>WEB3 thought leader</span>
-                                                <span>Token Maximalist</span>
-                                                <span>Metaverse Evangelist</span>
+                                                <span>WEB3 thought leaders</span>
+                                                <span>Token Maximalists</span>
+                                                <span>Metaverse Evangelists</span>
                                             </TextLoop>{" "}
                                         </h4>
                                     </div>
