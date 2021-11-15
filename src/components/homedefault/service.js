@@ -32,7 +32,7 @@ const Service = () => {
                         <div className="col-lg-12">
                             <div className="section-title mb--30">
                                 <span className="subtitle">SERVICES</span>
-                                <h2 className="title">WHAT I DO</h2>
+                                <h2 className="title">WHAT WE DO</h2>
                             </div>
                         </div>
                     </div>
@@ -57,25 +57,25 @@ const Service = () => {
                             <div className="progressbar-area">
                                 <div className="progress-bar--1">
                                     <div className="single-progress">
-                                        <h6 className="title">Web Development</h6>
+                                        <h6 className="title">Illuvium Player</h6>
                                         <ProgressBar now={81} />
                                         <span className="label">81%</span>
                                     </div>
 
                                     <div className="single-progress">
-                                        <h6 className="title">Brand Identity</h6>
+                                        <h6 className="title">Internet Computer Evangelist</h6>
                                         <ProgressBar now={72} />
                                         <span className="label">72%</span>
                                     </div>
 
                                     <div className="single-progress">
-                                        <h6 className="title">Javascript</h6>
+                                        <h6 className="title">DAO Governance researcher</h6>
                                         <ProgressBar now={89} />
                                         <span className="label">89%</span>
                                     </div>
 
                                     <div className="single-progress">
-                                        <h6 className="title">Wordpress</h6>
+                                        <h6 className="title">Crypto Fact Checker</h6>
                                         <ProgressBar now={95} />
                                         <span className="label">95%</span>
                                     </div>
