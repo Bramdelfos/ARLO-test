@@ -16,29 +16,29 @@
   {
     "id": "service-3",
     "number": "03",
-    "title": "Workshop supervising",
-    "description": "Learn to use DeFi and earn yields of up to 20% per year on stablecoins",
-    "readmoreButton": "Read More..."
-  },
-  {
-    "id": "service-4",
-    "number": "04",
     "title": "Business Coaching",
     "description": "Starting a business is hard, starting a WEB3 business is weird, we are here to help",
     "readmoreButton": "Read More..."
   },
   {
+    "id": "service-4",
+    "number": "04",
+    "title": "DeFi Workshops",
+    "description": "Earn yields of up to 20% / year on stablecoins or 4000% on liquidity provision",
+    "readmoreButton": "Read More..."
+  },
+  {
     "id": "service-5",
     "number": "05",
-    "title": "Play2earn Streaming",
-    "description": "GameFi is the future of gaming and is the first real version of the Metaverse",
+    "title": "Play2Earn",
+    "description": "Buying land in the first iteration of the Metaverse could make you a millionaire",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-6",
     "number": "06",
-    "title": "Governance Debating",
-    "description": "Decentralized organizations let us experiment with new forms of (democratic) governance",
+    "title": "Invest in the Future",
+    "description": "Which 100X tokens and stock should you buy to position yourself for the Metaverse",
     "readmoreButton": "Read More..."
   }
 ]
