@@ -22,24 +22,24 @@ const infoList = [
 //        "label": "University:",
 //        "link": "Technical University of Delft"
 //    },
-    {
-        "id": "4",
-        "icon": <FiBook />,
-        "label": "Degree:",
-        "link": "MSc Engineering"
-    },
-    {
-        "id": "4",
-        "icon": <FiBook />,
-        "label": "Experience:",
-        "link": "Founder of LeadLabel"
-    },
- //   {
- //       "id": "4",
- //       "icon": <FiBook />,
- //       "label": "Influence:",
- //       "link": "WEB3 thought leader"
- //   },
+//    {
+//        "id": "4",
+//        "icon": <FiBook />,
+//        "label": "Degree:",
+//        "link": "MSc Engineering"
+//    },
+//    {
+//        "id": "4",
+//        "icon": <FiBook />,
+//        "label": "Experience:",
+//        "link": "Founder of LeadLabel"
+//    },
+//   {
+//       "id": "4",
+//       "icon": <FiBook />,
+//       "label": "Influence:",
+//       "link": "WEB3 thought leader"
+//   },
 //    {
 //        "id": "4",
 //        "icon": <FiCalendar />,
@@ -99,7 +99,7 @@ const About = ( ) => {
                     <div className="col-lg-12">
                         <div className="section-title">
                             <span className="subtitle">BIOGRAPHY</span>
-                            <h2 className="title">ABOUT ME</h2>
+                            <h2 className="title">ABOUT NNN</h2>
                         </div>
                     </div>
                 </div>
