@@ -2,43 +2,43 @@
   {
     "id": "service-1",
     "number": "01",
-    "title": "Keynote Speaker",
-    "description": "Demystifying web3 & the Metaverse",
+    "title": "Keynote Speaking",
+    "description": "Demystifying WEB3 and/or The Metaverse, what will the future look like",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-2",
     "number": "02",
-    "title": "Graphic Design",
-    "description": "Graphic design is the process of visual communication and problem-solving...",
+    "title": "Token Engineering",
+    "description": "Discovery Phase for WEB2 companies thinking about making the transition to WEB3",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-3",
     "number": "03",
-    "title": "Adobe Photoshop",
-    "description": "Adobe Photoshop is software that is extensively used for raster image editing...",
+    "title": "Workshop supervising",
+    "description": "Learn to use DeFi and earn yields of up to 20% per year on stablecoins",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-4",
     "number": "04",
-    "title": "Web Organize",
-    "description": "Web development is the work involved in developing a web site for the Internet...",
+    "title": "Business Coaching",
+    "description": "Starting a business is hard, starting a WEB3 business is weird, we are here to help",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-5",
     "number": "05",
-    "title": "Branding Identity",
-    "description": "Web development is the work involved in developing a web site for the Internet...",
+    "title": "Play2earn Streaming",
+    "description": "GameFi is the future of gaming and is the first real version of the Metaverse",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-6",
     "number": "06",
-    "title": "Social Media",
-    "description": "Adobe Photoshop is software that is extensively used for raster image editing...",
+    "title": "Governance Debating",
+    "description": "Decentralized organizations let us experiment with new forms of (democratic) governance",
     "readmoreButton": "Read More..."
   }
 ]
