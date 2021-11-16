@@ -57,7 +57,7 @@ const Timeline = () => {
                     <div className="col-lg-6 col-md-12 col-12">
                         <div className="single-timeline">
                             <div className="inner">
-                                <div className="time"><span>2021 - ∞</span></div>
+                                <div className="time"><span>2021 - </span></div>
                                 
                                 <span className="job">Internet Computer</span>
                                 <p>With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success.</p>
@@ -70,7 +70,7 @@ const Timeline = () => {
                     <div className="col-lg-6 col-md-12 col-12">
                         <div className="single-timeline">
                             <div className="inner">
-                                <div className="time"><span>2021 - ∞</span></div>
+                                <div className="time"><span>2021 - </span></div>
                                 
                                 <span className="job">The Metaverse</span>
                                 <p>With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success.</p>
