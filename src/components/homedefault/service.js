@@ -58,26 +58,26 @@ const Service = () => {
                                 <div className="progress-bar--1">
                                     <div className="single-progress">
                                         <h6 className="title">Internet Computer will enable blockchain singularity</h6>
-                                        <ProgressBar now={81} />
-                                        <span className="label">95%</span>
-                                    </div>
-
-                                    <div className="single-progress">
-                                        <h6 className="title">Illuvium will be the first WEB3 product with mass adoption</h6>
-                                        <ProgressBar now={72} />
-                                        <span className="label">92%</span>
-                                    </div>
-
-                                    <div className="single-progress">
-                                        <h6 className="title">Token engineering is of vital importance to WEB3 success</h6>
-                                        <ProgressBar now={89} />
+                                        <ProgressBar now={90} />
                                         <span className="label">90%</span>
                                     </div>
 
                                     <div className="single-progress">
-                                        <h6 className="title">Democratic governance is future of DAO implementation</h6>
+                                        <h6 className="title">Illuvium will be the first WEB3 product with mass adoption</h6>
                                         <ProgressBar now={95} />
-                                        <span className="label">89%</span>
+                                        <span className="label">95%</span>
+                                    </div>
+
+                                    <div className="single-progress">
+                                        <h6 className="title">Token engineering is of vital importance to WEB3 success</h6>
+                                        <ProgressBar now={92} />
+                                        <span className="label">92%</span>
+                                    </div>
+
+                                    <div className="single-progress">
+                                        <h6 className="title">Democratic governance is future of DAO implementation</h6>
+                                        <ProgressBar now={92} />
+                                        <span className="label">92%</span>
                                     </div>
                                 </div>
                             </div>
