@@ -22,7 +22,7 @@ const Timeline = () => {
                     <div className="col-lg-12">
                         <div className="section-title">
                             <span className="subtitle">TIMELINE</span>
-                            <h2 className="title">WORKING PERIOD</h2>
+                            <h2 className="title">Evolution of WEB3 and the Metaverse</h2>
                         </div>
                     </div>
                 </div>
@@ -32,8 +32,8 @@ const Timeline = () => {
                         <div className="single-timeline">
                             <div className="inner">
                                 <div className="time"><span>2017 - Current</span></div>
-                                <Img className="envato-images" fixed={envatoImages} />
-                                <span className="job">Full Stack Developer</span>
+                                
+                                <span className="job">Bitcoin</span>
                                 <p>With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success.</p>
                             </div>
                         </div>
@@ -45,8 +45,8 @@ const Timeline = () => {
                         <div className="single-timeline">
                             <div className="inner">
                                 <div className="time"><span>2014 - 2017</span></div>
-                                <Img className="envato-images" fixed={envatoImages} />
-                                <span className="job">Web Developer</span>
+                               
+                                <span className="job">Ethereum</span>
                                 <p>With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success.</p>
                             </div>
                         </div>
@@ -57,9 +57,9 @@ const Timeline = () => {
                     <div className="col-lg-6 col-md-12 col-12">
                         <div className="single-timeline">
                             <div className="inner">
-                                <div className="time"><span>2012 - 2014</span></div>
-                                <Img className="envato-images" fixed={envatoImages} />
-                                <span className="job">Systems Analyst</span>
+                                <div className="time"><span>2021 - ∞</span></div>
+                                
+                                <span className="job">Internet Computer</span>
                                 <p>With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success.</p>
                             </div>
                         </div>
@@ -70,9 +70,9 @@ const Timeline = () => {
                     <div className="col-lg-6 col-md-12 col-12">
                         <div className="single-timeline">
                             <div className="inner">
-                                <div className="time"><span>2010 - 2012</span></div>
-                                <Img className="envato-images" fixed={envatoImages} />
-                                <span className="job">Graphic Designer</span>
+                                <div className="time"><span>2021 - ∞</span></div>
+                                
+                                <span className="job">The Metaverse</span>
                                 <p>With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success.</p>
                             </div>
                         </div>
@@ -86,3 +86,10 @@ const Timeline = () => {
 }
 
 export default Timeline;
+
+
+// <Img className="envato-images" fixed={envatoImages} />
+// <Img className="envato-images" fixed={envatoImages} />
+// <Img className="envato-images" fixed={envatoImages} />
+// <Img className="envato-images" fixed={envatoImages} />
+
