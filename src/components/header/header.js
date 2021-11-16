@@ -58,21 +58,21 @@ const Header = () => {
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="nav-link menu-hover-link" href="/#service">
+                                    <a className="nav-link menu-hover-link" href="/#services">
                                         <span className="hover-item">
                                             <span data-text="Services">Services</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="nav-link menu-hover-link" href="/#portfolio">
+                                    <a className="nav-link menu-hover-link" href="/#highlights">
                                         <span className="hover-item">
                                             <span data-text="Highlights">Highlights</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="nav-link menu-hover-link" href="/#news">
+                                    <a className="nav-link menu-hover-link" href="/#blog">
                                         <span className="hover-item">
                                             <span data-text="Blog">Blog</span>
                                         </span>
