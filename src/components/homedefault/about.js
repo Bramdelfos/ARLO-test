@@ -99,7 +99,7 @@ const About = ( ) => {
                     <div className="col-lg-12">
                         <div className="section-title">
                             <span className="subtitle">BIOGRAPHY</span>
-                            <h2 className="title">ABOUT N<sup>3</h2>
+                            <h2 className="title">ABOUT NNN</h2>
                         </div>
                     </div>
                 </div>
