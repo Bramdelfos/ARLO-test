@@ -93,8 +93,8 @@ const Header = () => {
                     {/* Start Header Bottom  */}
                     <div className="header-bottom">
                         <ul className="social-icons">     
-                            <li><a href="twitter.com"><FaTwitter /></a></li>
-                            <li><a href="linkedin.com"><FaLinkedinIn /></a></li>
+                            <li><a href="www.twitter.com"><FaTwitter /></a></li>
+                            <li><a href="www.linkedin.com"><FaLinkedinIn /></a></li>
                         </ul>
                     </div>
 
