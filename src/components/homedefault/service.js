@@ -59,25 +59,21 @@ const Service = () => {
                                     <div className="single-progress">
                                         <h6 className="title">Internet Computer will enable blockchain singularity</h6>
                                         <ProgressBar now={100} />
-                                      //  <span className="label">90%</span>
                                     </div>
 
                                     <div className="single-progress">
                                         <h6 className="title">Illuvium will be the first WEB3 product with mass adoption</h6>
                                         <ProgressBar now={100} />
-                                      //  <span className="label">95%</span>
                                     </div>
 
                                     <div className="single-progress">
-                                        <h6 className="title">Token engineering is at the core of a successfull WEB3 application</h6>
+                                        <h6 className="title">Token engineering is the core of a successfull WEB3 application</h6>
                                         <ProgressBar now={100} />
-                                       //  <span className="label">92%</span>
                                     </div>
 
                                     <div className="single-progress">
                                         <h6 className="title">Liquid democracy is future of DAO governance</h6>
                                         <ProgressBar now={100} />
-                                        // <span className="label">92%</span>
                                     </div>
                                 </div>
                             </div>
@@ -90,3 +86,8 @@ const Service = () => {
     )
 }
 export default Service;
+
+//  <span className="label">90%</span>
+//  <span className="label">95%</span>
+//  <span className="label">92%</span>
+//  <span className="label">92%</span>
