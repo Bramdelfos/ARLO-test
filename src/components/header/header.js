@@ -67,14 +67,14 @@ const Header = () => {
                                 <li>
                                     <a className="nav-link menu-hover-link" href="/#portfolio">
                                         <span className="hover-item">
-                                            <span data-text="Portfolio">Portfolio</span>
+                                            <span data-text="Portfolio">Highlights</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li>
                                     <a className="nav-link menu-hover-link" href="/#news">
                                         <span className="hover-item">
-                                            <span data-text="News">News</span>
+                                            <span data-text="News">Blog</span>
                                         </span>
                                     </a>
                                 </li>
@@ -97,7 +97,7 @@ const Header = () => {
                             <li><a href="twitter.com"><FaTwitter /></a></li>
                             <li><a href="linkedin.com"><FaLinkedinIn /></a></li>
                             <li><a href="instagram.com"><FaInstagram /></a></li> 
-                            <li><a href="behance.com"><FaBehance /></a></li>
+                           // <li><a href="behance.com"><FaBehance /></a></li>
                         </ul>
                     </div>
 
