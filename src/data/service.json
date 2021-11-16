@@ -2,43 +2,43 @@
   {
     "id": "service-1",
     "number": "01",
-    "title": "Keynote Speaking",
-    "description": "Demystifying WEB3 and/or The Metaverse, what will the future look like",
+    "title": "Metaverse Keynote",
+    "description": "Demystifying The Metaverse and its WEB3 foundation",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-2",
     "number": "02",
-    "title": "Token Engineering",
-    "description": "Discovery Phase for WEB2 companies thinking about making the transition to WEB3",
+    "title": "WEB3 Workshop",
+    "description": "How will WEB3 disrupt your WEB2 industry",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-3",
     "number": "03",
-    "title": "Business Coaching",
-    "description": "Starting a business is hard, starting a WEB3 business is weird, we are here to help",
+    "title": "Token Engineering",
+    "description": "Designing a token economy for your WEB2/WEB3 company",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-4",
     "number": "04",
-    "title": "DeFi Workshops",
-    "description": "Earn yields of up to 20% / year on stablecoins or 4000% on liquidity provision",
+    "title": "Play2Earn",
+    "description": "Learn how to Play2Earn and become a digital real estate investor",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-5",
     "number": "05",
-    "title": "Play2Earn",
-    "description": "Buying land in the first iteration of the Metaverse could make you a millionaire",
+    "title": "DeFi",
+    "description": "Earn 20% APY on stablecoins and protect yourself with a DeFi insurance",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-6",
     "number": "06",
-    "title": "Invest in the Future",
-    "description": "Which 100X tokens and stock should you buy to position yourself for the Metaverse",
+    "title": "Investing",
+    "description": "Get 10-100X returns by investing in The Metaverse",
     "readmoreButton": "Read More..."
   }
 ]
