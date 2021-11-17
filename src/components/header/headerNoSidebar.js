@@ -67,7 +67,7 @@ const HeaderNoSidebar = () => {
             <div className="trigger-popup-menu">
                 <div className="menu_full">
                     <div className="menu_wrapper">
-                        <Scrollspy className="popup_mainmenu" items={['home','about', 'services', 'highlights' , 'blog' , 'contact']} currentClassName="is-current" offset={-200}>
+                        <Scrollspy className="popup_mainmenu" items={['home','about', 'service', 'portfolio' , 'news' , 'contact']} currentClassName="is-current" offset={-200}>
                             <li>
                                 <a className="menu-hover-link" href="/#home" onClick={onMenuToggleClick}>
                                     <span className="hover-item">
@@ -85,7 +85,7 @@ const HeaderNoSidebar = () => {
                             </li>
 
                             <li>
-                                <a className="menu-hover-link" href="/#services" onClick={onMenuToggleClick}>
+                                <a className="menu-hover-link" href="/#service" onClick={onMenuToggleClick}>
                                     <span className="hover-item">
                                         <span data-text="Services">Services</span>
                                     </span>
@@ -93,7 +93,7 @@ const HeaderNoSidebar = () => {
                             </li>
 
                             <li>
-                                <a className="menu-hover-link" href="/#highlights" onClick={onMenuToggleClick}>
+                                <a className="menu-hover-link" href="/#portfolio" onClick={onMenuToggleClick}>
                                     <span className="hover-item">
                                         <span data-text="Highlights">Highlights</span>
                                     </span>
@@ -101,7 +101,7 @@ const HeaderNoSidebar = () => {
                             </li>
 
                             <li>
-                                <a className="menu-hover-link" href="/#blog" onClick={onMenuToggleClick}>
+                                <a className="menu-hover-link" href="/#news" onClick={onMenuToggleClick}>
                                     <span className="hover-item">
                                         <span data-text="Blog">Blog</span>
                                     </span>
