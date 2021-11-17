@@ -1,14 +1,14 @@
 ---
 title: The future of the Internet
-date: 2020-02-09 05:00:00
+date: 2021-11-17 09:00:00
 author: Rainbow
 format: image
 image: "../images/blog/blog-4.jpg"
 category: Technology
 tags:
-- react
-- gatsby
-- styled components
+- Metaverse
+- VR
+- AR
 is_featured: true
 
 ---
