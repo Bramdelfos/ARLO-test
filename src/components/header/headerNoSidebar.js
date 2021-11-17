@@ -87,7 +87,7 @@ const HeaderNoSidebar = () => {
                             <li>
                                 <a className="menu-hover-link" href="/#services" onClick={onMenuToggleClick}>
                                     <span className="hover-item">
-                                        <span data-text="Service">Services</span>
+                                        <span data-text="Services">Services</span>
                                     </span>
                                 </a>
                             </li>
@@ -95,7 +95,7 @@ const HeaderNoSidebar = () => {
                             <li>
                                 <a className="menu-hover-link" href="/#highlights" onClick={onMenuToggleClick}>
                                     <span className="hover-item">
-                                        <span data-text="Portfolio">Highlights</span>
+                                        <span data-text="Highlights">Highlights</span>
                                     </span>
                                 </a>
                             </li>
@@ -103,7 +103,7 @@ const HeaderNoSidebar = () => {
                             <li>
                                 <a className="menu-hover-link" href="/#blog" onClick={onMenuToggleClick}>
                                     <span className="hover-item">
-                                        <span data-text="News">Blog</span>
+                                        <span data-text="Blog">Blog</span>
                                     </span>
                                 </a>
                             </li>
