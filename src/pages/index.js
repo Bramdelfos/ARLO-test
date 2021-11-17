@@ -19,7 +19,6 @@ const IndexPage = () => (
     <div id="portfolio">
         <Project />
         <Testimonial />
-        <Timeline />
     </div>
     <BlogPost />
     <Contact />
@@ -27,3 +26,5 @@ const IndexPage = () => (
   
 )
 export default IndexPage;
+
+//<Timeline />
