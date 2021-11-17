@@ -57,7 +57,7 @@ const Service = () => {
                             <div className="progressbar-area">
                                 <div className="progress-bar--1">
                                     <div className="single-progress">
-                                        <h6 className="title">Internet Computer will enable blockchain singularity</h6>
+                                        <h6 className="title">The Internet Computer will enable blockchain singularity</h6>
                                         <ProgressBar now={100} />
                                     </div>
 
@@ -67,12 +67,12 @@ const Service = () => {
                                     </div>
 
                                     <div className="single-progress">
-                                        <h6 className="title">Token engineering is the core of a successfull WEB3 application</h6>
+                                        <h6 className="title">Token engineering will determine your WEB3 success</h6>
                                         <ProgressBar now={100} />
                                     </div>
 
                                     <div className="single-progress">
-                                        <h6 className="title">Liquid democracy is future of DAO governance</h6>
+                                        <h6 className="title">Without democratic governance your just more of the same</h6>
                                         <ProgressBar now={100} />
                                     </div>
                                 </div>
