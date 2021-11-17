@@ -7,43 +7,13 @@ const infoList = [
         "id": "1",
         "icon": <FiMapPin />,
         "label": "Location:",
-        "link": "Ave 11, New York, USA"
-    },
-    {
-        "id": "2",
-        "icon": <FiPhone />,
-        "label": "Phone:",
-        "link": "+77 022 177 05 05"
-    },
-    {
-        "id": "3",
-        "icon": <FiGlobe />,
-        "label": "Website:",
-        "link": "rainbow-themes.com"
+        "link": "Metaverse"
     },
     {
         "id": "4",
         "icon": <FiTwitter />,
         "label": "Twitter:",
-        "link": "@rainbowTwitter"
-    },
-    {
-        "id": "4",
-        "icon": <FiFacebook />,
-        "label": "Facebook:",
-        "link": "@rainbowFacebook"
-    },
-    {
-        "id": "4",
-        "icon": <FiInstagram />,
-        "label": "Instagram:",
-        "link": "@rainbowInstagram"
-    },
-    {
-        "id": "4",
-        "icon": <FiPhoneIncoming />,
-        "label": "Whatsapp:",
-        "link": "@rainbowWhatsapp"
+        "link": "@newnetninja"
     },
 ]
 
@@ -72,7 +42,7 @@ const Contact = () => {
                         <div className="section-title mb--30">
                             <span className="subtitle">{Description}</span>
                             <h2 className="title" dangerouslySetInnerHTML={{ __html: Title }}></h2>
-                            <p className="description mt--75 mt_sm--30 mt_md--30">Please fill out the form on this section to contact with me. Or call <br /> between 9:00 a.m. and 8:00 p.m. ET, Monday through Friday</p>
+                            <p className="description mt--75 mt_sm--30 mt_md--30">Please fill out the form on this section to get in contact with us.</p>
                         </div>
                     </div>
                 </div>
@@ -102,3 +72,37 @@ const Contact = () => {
 }
 
 export default Contact
+
+
+ //   {
+ //       "id": "2",
+ //       "icon": <FiPhone />,
+ //       "label": "Phone:",
+ //       "link": "+77 022 177 05 05"
+ //   },
+ //   {
+ //       "id": "3",
+ //       "icon": <FiGlobe />,
+ //       "label": "Website:",
+ //       "link": "rainbow-themes.com"
+ //   },
+ //           {
+ //       "id": "4",
+ //       "icon": <FiFacebook />,
+ //       "label": "Facebook:",
+ //       "link": "@rainbowFacebook"
+ //   },
+ //   {
+ //       "id": "4",
+ //       "icon": <FiInstagram />,
+ //       "label": "Instagram:",
+ //       "link": "@rainbowInstagram"
+ //   },
+ //   {
+ //       "id": "4",
+ //       "icon": <FiPhoneIncoming />,
+ //       "label": "Whatsapp:",
+ //       "link": "@rainbowWhatsapp"
+ //   },
+
+// Or call <br /> between 9:00 a.m. and 8:00 p.m. ET, Monday through Friday
