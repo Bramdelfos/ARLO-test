@@ -44,8 +44,8 @@ const BlogPost = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="section-title mb--30">
-                            <span className="subtitle">NEWS</span>
-                            <h2 className="title">LATEST NEWS</h2>
+                            <span className="subtitle">BLOG</span>
+                            <h2 className="title">LATEST BLOGS</h2>
                         </div>
                     </div>
                 </div>
