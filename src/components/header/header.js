@@ -58,14 +58,14 @@ const Header = () => {
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="nav-link menu-hover-link" href="/#services">
+                                    <a className="nav-link menu-hover-link" href="/#service">
                                         <span className="hover-item">
                                             <span data-text="Services">Services</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="nav-link menu-hover-link" href="/#highlights">
+                                    <a className="nav-link menu-hover-link" href="/#portfolio">
                                         <span className="hover-item">
                                             <span data-text="Highlights">Highlights</span>
                                         </span>
