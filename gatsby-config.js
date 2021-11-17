@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Demystifying The Metaverse`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    description: `New Net Ninja will focus on helping companies and consumers to navigate the Wild West of WEB3, and find their footing in the Metaverse.`,
     author: `@gatsbyjs`,
     siteUrl: "http://localhost:8000/",
     getform_url: "https://getform.io/f/7a6695a7-c8e3-442c-bc2f-d46d3b9a535e",
