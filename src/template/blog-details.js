@@ -14,7 +14,7 @@ const BlogDetails = ({data, pageContext}) => {
     const {html} = data.markdownRemark;
     
     const baseUrl = 'https://newnet.ninja/'
-    const disqusShortname = 'https-gatsbytutorial-co-uk';
+    const disqusShortname = 'NewNetNinja';
     const disqusConfig = {
         url: baseUrl + pageContext.slug,
         identifier: data.markdownRemark.id,
@@ -139,3 +139,5 @@ query blogDetailsQuery ($slug: String!) {
 `
 
 export default BlogDetails;
+
+//https-gatsbytutorial-co-uk
