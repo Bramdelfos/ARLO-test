@@ -13,8 +13,8 @@ const BlogDetails = ({data, pageContext}) => {
     const imageSrc = image.childImageSharp;
     const {html} = data.markdownRemark;
     
-    const baseUrl = 'https://gatsbytutorial.co.uk/'
-    const disqusShortname = 'https-gatsbytutorial-co-uk';
+    const baseUrl = 'https://newnet.ninja/'
+    const disqusShortname = 'NewNetNinja';
     const disqusConfig = {
         url: baseUrl + pageContext.slug,
         identifier: data.markdownRemark.id,
