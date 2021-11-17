@@ -42,7 +42,7 @@ const Header = () => {
 
                     <div className="mainmenu-inner">
                         <div className="mainmenu">
-                            <Scrollspy className="mainmenu" items={['home','about', 'services', 'highlights' , 'blog' , 'contact']} currentClassName="is-current" offset={-200}>
+                            <Scrollspy className="mainmenu" items={['home','about', 'service', 'portfolio' , 'news' , 'contact']} currentClassName="is-current" offset={-200}>
                                 <li>
                                     <a className="nav-link menu-hover-link" href="/#home">
                                         <span className="hover-item">
@@ -58,21 +58,21 @@ const Header = () => {
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="nav-link menu-hover-link" href="/#services">
+                                    <a className="nav-link menu-hover-link" href="/#service">
                                         <span className="hover-item">
                                             <span data-text="Services">Services</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="nav-link menu-hover-link" href="/#highlights">
+                                    <a className="nav-link menu-hover-link" href="/#portfolio">
                                         <span className="hover-item">
                                             <span data-text="Highlights">Highlights</span>
                                         </span>
                                     </a>
                                 </li>
                                 <li>
-                                    <a className="nav-link menu-hover-link" href="/#blog">
+                                    <a className="nav-link menu-hover-link" href="/#news">
                                         <span className="hover-item">
                                             <span data-text="Blog">Blog</span>
                                         </span>
