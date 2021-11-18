@@ -1,7 +1,7 @@
 ---
 title: The future of the Internet
 date: 2021-11-17 09:00:00
-author: Rainbow
+author: Bram Delfos
 format: image
 image: "../images/blog/blog-4.jpg"
 category: Technology
