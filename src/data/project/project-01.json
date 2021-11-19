@@ -1,6 +1,7 @@
 {
     "id": "project-01",
     "title": "Illuvium is the first Metaverse",
+    "category": "GameFi",
     "featured_image": "./images/illuvium_tree.png",
     "is_featured": true,
     "body": [
