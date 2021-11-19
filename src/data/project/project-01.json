@@ -1,14 +1,14 @@
 {
     "id": "project-01",
-    "title": "Illuvium is the future of gaming",
-    "category": "Design",
-    "client": "Arloko Corp",
-    "imgesBY": "Draxler",
-    "year": "2009 - 2019",
+    "title": "Illuvium is the first Metaverse",
+    //"category": "Design",
+    //"client": "Arloko Corp",
+    //"imgesBY": "Draxler",
+    //"year": "2009 - 2019",
     "featured_image": "./images/illuvium_tree.png",
     "is_featured": true,
     "body": [
-        "Aussies were developed on ranches in the western United States, and were seen as early as the 1800s. These pups are very focused, and need lots of attention, pawsitive reinforcement, and exercise. They can still be found working on the ranch, but also work as guide dogs, therapy dogs, drug detectors, and of course, man’s best friend. People often seek them out for their incredibly strong hunting abilities. They are excellent swimmers, too, so a nice lake or pool is A-OK! However, they do require regular exercise and would fit best with an active family."
+        "Illuvium is just a game, it is a decentralized gaming studio, creating a fantasy world where one can catch alien creatures and use them to fight opponents"
     ],
     "features": [
         {
