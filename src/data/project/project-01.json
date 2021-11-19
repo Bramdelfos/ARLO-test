@@ -1,10 +1,6 @@
 {
     "id": "project-01",
     "title": "Illuvium is the first Metaverse",
-    //"category": "Design",
-    //"client": "Arloko Corp",
-    //"imgesBY": "Draxler",
-    //"year": "2009 - 2019",
     "featured_image": "./images/illuvium_tree.png",
     "is_featured": true,
     "body": [
