@@ -13,11 +13,11 @@
     "features": [
         {
             "id": "feature-1",
-            "image": "./images/project-02.jpg"
+            "image": "./images/illuvium_plant_2_blue-80.jpeg"
         },
         {
             "id": "feature-2",
-            "image": "./images/project-03.jpg"
+            "image": "./images/illuvial.jpg"
         }
     ]
 }
