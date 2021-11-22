@@ -23,7 +23,7 @@ const Projectcard = ({image, id, title, category, column}) => {
                 </div>
                 <div className="content">
                     <div className="inner">
-                        {title && <h4 className="title"><Link to={`/the-future-of-the-internet/`}>{title}</Link></h4>}
+                        {title && <h4 className="title"><Link to={`/${id}`}>{title}</Link></h4>}
                         {category && <span className="category">{category}</span>}
                     </div>
                 </div>
