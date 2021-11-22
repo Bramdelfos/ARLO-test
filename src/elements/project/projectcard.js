@@ -17,7 +17,7 @@ const Projectcard = ({image, id, title, category, column}) => {
         <div className={column}>
             <div className="portfolio">
                 <div className="thumbnail">
-                    <Link to={`/project/${id}`}>
+                    <Link to={`${id}`}>
                         {projectImg}
                     </Link>
                 </div>
