@@ -50,7 +50,7 @@ const infoList = [
         "id": "4",
         "icon": <FiMail />,
         "label": "Mail:",
-        "link": "bram@newnet.ninja"
+        "link": "contact@newnet.ninja"
     }
 //    {
 //        "id": "4",
@@ -98,8 +98,8 @@ const About = ( ) => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="section-title">
-                            <span className="subtitle">BIOGRAPHY</span>
-                            <h2 className="title">ABOUT NNN</h2>
+                            <span className="subtitle">Vision</span>
+                            <h2 className="title">The NEW NET NINJA DAO</h2>
                         </div>
                     </div>
                 </div>
