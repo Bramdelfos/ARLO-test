@@ -99,7 +99,7 @@ const About = ( ) => {
                     <div className="col-lg-12">
                         <div className="section-title">
                             <span className="subtitle">Vision</span>
-                            <h2 className="title">The NEW NET NINJA DAO</h2>
+                            <h2 className="title">The NEW class='color-primary'>NET</span> NINJA DAO</h2>
                         </div>
                     </div>
                 </div>
