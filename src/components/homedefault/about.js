@@ -10,12 +10,12 @@ const infoList = [
  //       "label": "Birthday:",
  //       "link": "25.01.1991"
  //   },
-    {
-        "id": "2",
-        "icon": <FiMapPin />,
-        "label": "Location:",
-        "link": "Metaverse"
-    },
+ //   {
+ //       "id": "2",
+ //       "icon": <FiMapPin />,
+ //       "label": "Location:",
+ //       "link": "Metaverse"
+ //   },
 //    {
 //        "id": "3",
 //        "icon": <FiBookOpen />,
@@ -46,12 +46,12 @@ const infoList = [
 //        "label": "Birthyear:",
 //        "link": "1991"
 //    },
-    {
-        "id": "4",
-        "icon": <FiMail />,
-        "label": "Mail:",
-        "link": "contact@newnet.ninja"
-    }
+//    {
+//        "id": "4",
+//        "icon": <FiMail />,
+//        "label": "Mail:",
+//        "link": "contact@newnet.ninja"
+//    }
 //    {
 //        "id": "4",
 //        "icon": <FiPhoneIncoming />,
