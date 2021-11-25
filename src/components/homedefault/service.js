@@ -68,12 +68,12 @@ const Service = () => {
 
                                     <div className="single-progress">
                                         <h6 className="title">Keynotes</h6>
-                                        <ProgressBar now={60} />
+                                        <ProgressBar now={70} />
                                     </div>
 
                                     <div className="single-progress">
                                         <h6 className="title">Streams</h6>
-                                        <ProgressBar now={20} />
+                                        <ProgressBar now={60} />
                                     </div>
                                 </div>
                             </div>
