@@ -4,12 +4,13 @@ date: "2021-11-25 09:00:00"
 author: 'Bram'
 format: 'image'
 image: '../project/images/ILV-game.jpg'
-category: Themeforest
+category: Play2Earn
 tags: 
-    - react
-    - gatsby
-    - styled components
-    - Themeforest
+    - Metaverse
+    - Illuvium
+    - WEB3
+    - Play2Earn
+    
 is_featured: true
 ---
 As Vintage decided to have a closer look into fast-paced New York web design realm in person, we get to acquaint with most diverse and exceptionally captivating personalities. We encounter professionals with careers to covet and lives to write books about.
