@@ -32,7 +32,7 @@ const Service = () => {
                         <div className="col-lg-12">
                             <div className="section-title mb--30">
                                 <span className="subtitle">SERVICES</span>
-                                <h2 className="title">Keynotes Workshops Content</h2>
+                                <h2 className="title">Keynotes & Workshops</h2>
                             </div>
                         </div>
                     </div>
@@ -58,22 +58,22 @@ const Service = () => {
                                 <div className="progress-bar--1">
                                     <div className="single-progress">
                                         <h6 className="title">Blogs</h6>
-                                        <ProgressBar now={100} />
+                                        <ProgressBar now={90} />
                                     </div>
 
                                     <div className="single-progress">
                                         <h6 className="title">Workshops</h6>
-                                        <ProgressBar now={100} />
+                                        <ProgressBar now={80} />
                                     </div>
 
                                     <div className="single-progress">
                                         <h6 className="title">Keynotes</h6>
-                                        <ProgressBar now={100} />
+                                        <ProgressBar now={60} />
                                     </div>
 
                                     <div className="single-progress">
                                         <h6 className="title">Streams</h6>
-                                        <ProgressBar now={100} />
+                                        <ProgressBar now={20} />
                                     </div>
                                 </div>
                             </div>
