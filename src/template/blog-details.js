@@ -45,61 +45,7 @@ const BlogDetails = ({data, pageContext}) => {
                             </div>
 
                         </div>
-                    </div>
-                    <div className="row">
-                        <div className="col-lg-12">
-                            <div className="blog-contact-form">
-                                <div className="social-share-inner text-center pt--50">
-                                    <h3>Share This Post</h3>
-                                    <ul className="social-share-links liststyle d-flex justify-content-center">
-                                        <li>
-                                            <a className="facebook" target="_blank" rel="noopener noreferrer" href={'https://www.facebook.com/sharer.php?u=' + 
-                                            baseUrl + 
-                                            pageContext.slug
-                                            }>
-                                                <span>facebook</span>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a className="twitter" target="_blank" rel="noopener noreferrer" href={'https://www.twitter.com/share?url=' + 
-                                            baseUrl + 
-                                            pageContext.slug +
-                                            '&text=' +
-                                            title +
-                                            '&via' +
-                                            'twitterHandle'
-
-                                            }>
-                                                <span>Twitter</span>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a className="google" target="_blank" rel="noopener noreferrer" href={'https://plus.google.com/share?url=' + 
-                                            baseUrl + 
-                                            pageContext.slug
-
-                                            }>
-                                                <span>Google</span>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a className="linkedin" target="_blank" rel="noopener noreferrer" href={'https://www.linkedin.com/shareArticle?url=' + 
-                                            baseUrl + 
-                                            pageContext.slug
-                                            }>
-                                                <span>linkedin</span>
-                                            </a>
-                                        </li>
-
-                                    </ul>
-                                </div>
-
-                                <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
-                            </div>
-                        </div>
+                    
                     </div>   
                 </div>
             </div>
