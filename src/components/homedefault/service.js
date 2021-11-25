@@ -32,7 +32,7 @@ const Service = () => {
                         <div className="col-lg-12">
                             <div className="section-title mb--30">
                                 <span className="subtitle">SERVICES</span>
-                                <h2 className="title">WHAT WE DO</h2>
+                                <h2 className="title">Keynotes Workshops Content</h2>
                             </div>
                         </div>
                     </div>
@@ -57,22 +57,22 @@ const Service = () => {
                             <div className="progressbar-area">
                                 <div className="progress-bar--1">
                                     <div className="single-progress">
-                                        <h6 className="title">The Internet Computer will enable blockchain singularity</h6>
+                                        <h6 className="title">Blogs</h6>
                                         <ProgressBar now={100} />
                                     </div>
 
                                     <div className="single-progress">
-                                        <h6 className="title">Illuvium will be the first WEB3 product with mass adoption</h6>
+                                        <h6 className="title">Workshops</h6>
                                         <ProgressBar now={100} />
                                     </div>
 
                                     <div className="single-progress">
-                                        <h6 className="title">Token engineering will determine your WEB3 success</h6>
+                                        <h6 className="title">Keynotes</h6>
                                         <ProgressBar now={100} />
                                     </div>
 
                                     <div className="single-progress">
-                                        <h6 className="title">Without democratic governance your just more of the same</h6>
+                                        <h6 className="title">Streams</h6>
                                         <ProgressBar now={100} />
                                     </div>
                                 </div>
