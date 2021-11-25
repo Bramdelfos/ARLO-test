@@ -1,14 +1,17 @@
 ---
-title: 'The Role of Three Design in Development'
-date: "2020-02-04 05:00:00"
-author: 'Rainbow'
+title: 'Distrikt is the first decentralized socialmedia platform'
+date: "2021-11-25 09:00:00"
+author: 'Bram'
 format: 'image'
-image: '../images/blog/blog-4.jpg'
+image: '../images/blog/distrikt.png'
 category: Technology
 tags: 
-    - react
-    - gatsby
-    - styled components
+    - DeSo
+    - DeSocial
+    - Internet Computer
+    - Self-sovereign
+    
+    
 is_featured: true
 ---
 As Vintage decided to have a closer look into fast-paced New York web design realm in person, we get to acquaint with most diverse and exceptionally captivating personalities. We encounter professionals with careers to covet and lives to write books about.
