@@ -1,14 +1,16 @@
 ---
-title: 'The Power of Social Media in Life'
-date: "2020-02-05 05:00:00"
-author: 'Rainbow'
+title: 'N3 DAO actively supports the Internet Computer ecosystem'
+date: "2021-11-25 05:00:00"
+author: 'Bram'
 format: 'image'
-image: '../images/blog/blog-2.jpg'
-category: Graphics
+image: '../images/blog/ic-4.png'
+category: Internet Computer
 tags: 
-    - react
-    - gatsby
-    - Themeforest
+    - Internet Computer
+    - WEB3
+    - Metaverse
+    - Layer 1
+    
 is_featured: true
 ---
 As Vintage decided to have a closer look into fast-paced New York web design realm in person, we get to acquaint with most diverse and exceptionally captivating personalities. We encounter professionals with careers to covet and lives to write books about.
