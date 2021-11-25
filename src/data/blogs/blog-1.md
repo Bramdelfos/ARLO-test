@@ -1,9 +1,9 @@
 ---
-title: 'The Role of Design in Development'
-date: "2020-02-04 05:00:00"
-author: 'Rainbow'
+title: 'Illuvium will be the first mainstream WEB3 product'
+date: "2021-11-25 09:00:00"
+author: 'Bram'
 format: 'image'
-image: '../images/blog/blog-1.jpg'
+image: '../project/images/ILV-game.jpg'
 category: Themeforest
 tags: 
     - react
