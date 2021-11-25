@@ -2,43 +2,43 @@
   {
     "id": "service-1",
     "number": "01",
-    "title": "Metaverse Keynote",
-    "description": "Demystifying The Metaverse and its WEB3 foundation",
+    "title": "The Metaverse",
+    "description": "The WEB4 version of the internet will change everything",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-2",
     "number": "02",
-    "title": "WEB3 Workshop",
-    "description": "How will WEB3 disrupt your WEB2 industry",
+    "title": "Tokenization",
+    "description": "Tokens and NFTs will disrupt your WEB2 industry",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-3",
     "number": "03",
-    "title": "Token Engineering",
-    "description": "Designing a token economy for your WEB2/WEB3 company",
+    "title": "DAOs",
+    "description": "Your next competitor will be a Decentralized autonomous organization",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-4",
     "number": "04",
     "title": "Play2Earn",
-    "description": "Learn how to Play2Earn and become a digital real estate investor",
+    "description": "WEB3 gaming is already generating income for millions of people",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-5",
     "number": "05",
     "title": "DeFi",
-    "description": "Earn 20% APY on stablecoins and hedge it with a DeFi insurance",
+    "description": "Earn 20% APY on stablecoins or 4000% APY on yield farming",
     "readmoreButton": "Read More..."
   },
   {
     "id": "service-6",
     "number": "06",
     "title": "Investing",
-    "description": "Get 10-100X returns by investing in The Metaverse",
+    "description": "Get 100X returns by investing in digital Real Estate and Metaverse projects",
     "readmoreButton": "Read More..."
   }
 ]
