@@ -4,12 +4,13 @@ date: "2021-11-25 05:00:00"
 author: 'Bram'
 format: 'image'
 image: '../images/blog/ic-4.png'
-category: Internet Computer
+category: ICP
 tags: 
     - Internet Computer
     - WEB3
     - Metaverse
     - Layer 1
+    - ICP
     
 is_featured: true
 ---
