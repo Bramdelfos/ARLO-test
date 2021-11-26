@@ -9,8 +9,6 @@ tags:
 - Bitcoin
 - ICP
 - BTC
-- 
-- 
 is_featured: true
 
 ---
