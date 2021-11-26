@@ -6,9 +6,10 @@ format: image
 image: "../project/images/ludo-btc.jpeg"
 category: Governance
 tags:
-- Bitcoin
-- ICP
-- BTC
+    - Bitcoin
+    - ICP
+    - BTC
+   
 is_featured: true
 
 ---
