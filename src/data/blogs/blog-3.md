@@ -1,5 +1,5 @@
 ---
-title: '@0xSmartCoin is revolutionizing on-chain reputation'
+title: '0xSmartCoin is revolutionizing on-chain reputation'
 date: "2021-11-25 09:00:00"
 author: 'Bram'
 format: 'image'
