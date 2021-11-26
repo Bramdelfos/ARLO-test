@@ -1,14 +1,16 @@
 ---
-title: The future of the Internet
+title: The GreenBitcoinDAO will enable Bitcoiners to collaborate and invest in green energy mining facilities
 date: 2021-11-17 09:00:00
 author: Bram
 format: image
-image: "../images/blog/blog-4.jpg"
-category: Technology
+image: "../project/images/ludo-btc.jpeg"
+category: Governance
 tags:
-- Metaverse
-- VR
-- AR
+- Bitcoin
+- ICP
+- BTC
+- 
+- 
 is_featured: true
 
 ---
