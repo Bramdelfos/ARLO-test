@@ -1,10 +1,10 @@
 ---
-title: 'Distrikt is the first decentralized socialmedia platform'
+title: 'Why WEB3 social media is better and Distrikt is leading the way'
 date: "2021-11-25 09:00:00"
 author: 'Bram'
 format: 'image'
 image: '../images/blog/distrikt.png'
-category: Technology
+category: DeSocial
 tags: 
     - DeSo
     - DeSocial
