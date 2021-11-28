@@ -1,5 +1,5 @@
 ---
-title: The GreenBitcoinDAO will enable Bitcoiners to collaborate and invest in green energy mining facilities
+title: The GreenBitcoinDAO will enable Bitcoiners to collaborate and invest in green mining facilities
 date: 2021-11-17 09:00:00
 author: Bram
 format: image
