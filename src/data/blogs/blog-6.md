@@ -1,5 +1,5 @@
 ---
-title: The BitcoinDAO will enable Bitcoiners to collaborate and invest in green mining facilities
+title: The BTC-DAO will enable Bitcoiners to collaborate and invest in green mining facilities
 date: 2021-11-17 09:00:00
 author: Bram
 format: image
